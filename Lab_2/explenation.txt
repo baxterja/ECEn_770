@@ -1,0 +1,4 @@
+1. The generator matricies are shown in the pdf
+2. Dimension, blocklength, rate, and minimum distance are also shown in the pdf
+3. Found in main.py
+4. Results are shown in both images.  At 1E-4 BER there appears to be about a .05db gain for the RM(1,4) code and a -0.25db loss for the RM(1,3) code
